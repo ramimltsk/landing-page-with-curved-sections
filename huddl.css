@@ -1,0 +1,217 @@
+.tip{
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    font-family: "Poppins", serif;
+}
+
+body{
+    font-family: "Poppins", serif;
+    display: block;
+    margin: 0px;
+    width: 100%;
+}
+
+button{
+    font-family: "Poppins", serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+button{
+    font-size:17px ;
+}
+
+p{
+    font-size: 20px;
+}
+
+.tip button{
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: white;
+    border: 2px solid hsl(322, 100%, 66%);
+    color: hsl(322, 100%, 66%);
+    border-radius: 50px;
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+
+.toptxt{
+    text-align: center;
+}
+
+.startedbtn{
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color:hsl(322, 100%, 66%) ;
+    border: 0;
+    color: white;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gainsboro;
+}
+
+.mockups{
+    padding-top: 100px;
+
+}
+
+.stats{
+    padding-top: 100px;
+    display: flex;
+    gap: 500px;
+}
+
+.stats p{
+    color: gray;
+}
+
+.num{
+    margin: 0;
+    font-size: 70px;
+}
+
+
+.section{
+    display: flex;
+    align-items: center;
+    gap: 160px;
+    padding: 50px;
+    margin: 0;
+    background-color: hsl(207, 100%, 98%);
+}
+
+.section img{
+    width: 600px;
+}
+
+.txt h1{
+    margin:0;
+}
+
+.txt p{
+    font-size: 20px;
+}
+
+.wav1{
+    margin: 0;
+    width: 1530px;
+}
+
+.section2{
+    display: flex;
+    align-items: center;
+    gap: 160px;
+    padding: 50px;
+    margin: 0;
+}
+
+.section2 img{
+    width: 580px;
+}
+
+.section3{
+    display: flex;
+    align-items: center;
+    gap: 160px;
+    padding: 50px;
+    margin: 0;
+    background-color: hsl(207, 100%, 98%);
+}
+
+.section3 img{
+    width: 580px;
+}
+
+.ready{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.bottom{
+    background-color: hsl(192, 100%, 9%);
+    padding-bottom: 100px;
+    padding-top: 100px;
+    width: 100%;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+
+.bottom p{
+    color: white;
+    font-size: 15px;
+}
+
+.bottom h1{
+    color: white;
+}
+
+.logo2{
+    filter: brightness(0) invert(1);
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+}
+
+.info p{
+    margin: 0;
+}
+
+.wavblk{
+    width: 100%;
+}
+
+.inps{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.inp{
+    width: 300px;
+    border-radius: 5px;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.subs{
+    font-size: 17px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: hsl(322, 100%, 66%);
+    color: white;
+    border-radius: 5px;
+}
+
+
+
