@@ -88,7 +88,8 @@ p{
     display: flex;
     align-items: center;
     gap: 160px;
-    padding: 50px;
+    justify-content: space-evenly;
+    width: 100%;
     margin: 0;
     background-color: hsl(207, 100%, 98%);
 }
@@ -107,7 +108,7 @@ p{
 
 .wav1{
     margin: 0;
-    width: 1530px;
+    width: 100%;
 }
 
 .section2{
@@ -125,9 +126,10 @@ p{
 .section3{
     display: flex;
     align-items: center;
+    width: 100%;
     gap: 160px;
-    padding: 50px;
     margin: 0;
+    justify-content: space-evenly;
     background-color: hsl(207, 100%, 98%);
 }
 
